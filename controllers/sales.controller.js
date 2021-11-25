@@ -1,5 +1,5 @@
 const {ac, rs} = require('../constant');
-const {SalesService} = require('../db_service');
+const {SalesService} = require('../dbService');
 const {RequestUtil, DateUtil} = require('../util');
 
 /**
